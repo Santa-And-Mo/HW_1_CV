@@ -1,4 +1,5 @@
 HOMEWORK 1
+
 After the installation of Anaconda, Jupyter Notebook, and the required virtual environment, you will have to test that everything has been set up correctly. For that purpose, you will have to execute the following code and run it without errors.
 
 The code loads an image and creates a picture collage consisting of 4 pictures. Each of the four pictures is a version of the original image with the colour channels swapped.
